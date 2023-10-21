@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joshuadavies/eclipse/workspace4380/workspace4830-refactoring-Davies/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1655984339.index
+437944905.index
